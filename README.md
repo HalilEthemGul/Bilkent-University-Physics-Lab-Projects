@@ -10,4 +10,4 @@ This repository contains physics laboratory project reports, datasets, and exper
 
 ### 2. Investigating the Strength of Electromagnets (PHYS 102)
 * **Objective:** Observing the effects of windings (N) and current (I) on the generated magnetic field strength.
-* **Experiment Video:** [Watch on YouTube](https://youtu.be/Nsslpiih3bw)
+* **Experiment Video:** [Watch on YouTube](https://youtu.be/NssIpiih3bw)
